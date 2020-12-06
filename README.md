@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working for Chengdu 
-- 🌱 I’m currently learning TS/Python/Go
+- 🌱 I’m currently learning TS/NodeJS/Rust
 - 🤔 I’m looking for help with Algorithms
-- 💬 Ask me about elixir
+- 💬 Ask me about Elixir
 - 📫 How to reach me: chaiqx_2020(wechat)
 - ⚽️ Play football during weekend 
 
