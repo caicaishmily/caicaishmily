@@ -10,4 +10,4 @@
 
 <img src='./assets/wechat_t.png' width='504' alt='elixir中文爱好者'/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicaishmily&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicaishmily&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
