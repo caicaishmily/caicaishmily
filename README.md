@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working for Chengdu, China
-- 🌱 I’m currently learning TS/NodeJS/Go/Rust
+- 🌱 I’m currently learning TS/NodeJS/Rust/Elixir
 - 🤔 I’m looking for help with Algorithms
-- 💬 Ask me about Elixir
 - ⚽️ Play football during weekend
 
 ### 🏆 GitHub Profile Trophy:
