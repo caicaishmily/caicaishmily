@@ -24,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=ffff
+![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
