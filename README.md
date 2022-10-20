@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/-React-%2361dafb?style=flat-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next-dot-js&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
