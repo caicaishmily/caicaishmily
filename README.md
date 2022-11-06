@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working for Chengdu, China
-- 🌱 I’m currently learning TS/NodeJS/Rust/Elixir
+- 🌱 I’m currently learning NestJS/Rust/Python/ether.js
 - 🤔 I’m looking for help with Algorithms
 - ⚽️ Play football during weekend
 
