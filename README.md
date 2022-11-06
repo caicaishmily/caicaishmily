@@ -33,14 +33,17 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
 
-### 🏆 GitHub Profile Trophy:
+### GitHub Profile Trophy:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shmily&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caicaishmily&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+### Github Statistics
+| State  | Langs  |
+|---|---|
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caicaishmily&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicaishmily&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  |
 
+### Personal 
 <img src='./assets/wechat_t.png' width='504' alt='elixir中文爱好者'/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicaishmily&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
