@@ -10,12 +10,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%2338b2ac?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%2361dafb?style=flat-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next-dot-js&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%234B275F?style=flat-square&logo=Node.js&logoColor=ffffff&color=339933)
+![Python](https://img.shields.io/badge/-Python-%234B275F?style=flat-square&logo=python&logoColor=ffffff)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
