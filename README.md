@@ -46,7 +46,7 @@
 ### Github Statistics
 | State  | Langs  |
 |---|---|
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caicaishmily&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicaishmily&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicaishmily&hide=contribs,prs) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicaishmily&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  |
 
 ### Personal 
 <img src='./assets/wechat_t.png' width='504' alt='elixir中文爱好者'/>
