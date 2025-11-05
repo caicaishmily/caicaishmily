@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for Chengdu, China
-- 🌱 I’m currently learning NestJS/Rust/Python
+- 🔭 I’m currently live for Chengdu, China
+- 🌱 I’m currently learning Rust
 - ⚽️ Play football during weekend
 
 <!-- <h3 align="left">Languages and Tools:</h3>
